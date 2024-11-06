@@ -1,1 +1,1 @@
-# django_DDD
+# django_project_DDD
